@@ -1,0 +1,4 @@
+#Mon Jun 08 15:32:14 IST 2020
+base.0=/home/chirag/MLHFellow/react-native/RNTester/android/app/build/intermediates/dex/jscDebug/mergeDexJscDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
